@@ -1,4 +1,4 @@
-# 🏙️ Manhattan Airbnb Vacation Rental Analysis - Sprint 1
+# 🏙️ Manhattan Airbnb Vacation Rental Analysis 
 
 ## 📊 Overview
 
