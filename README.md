@@ -5,7 +5,7 @@ Portfolio of completed projects I worked on while attending the BI Analytics Tri
 | :-----------: | ----------- |----------- |
 | 0 | [Fresh Beats](https://github.com/LasAdams/BIanalystprojects/tree/main/Fresh%20Beats) | Status Report to present buisness recomendations via word report. |
 | 1 | [ABB Spreadsheets](https://github.com/LasAdams/BIanalystprojects/tree/main/ABB%20Spreadsheets) | Used pivot tables and revenue estimates to guide investment decisions. |
-| 2 | [Zuber](PROJECT DIRECTORY LINK) | DESCRIPTION HERE. |
+| 2 | [Zuber](https://github.com/LasAdams/BIanalystprojects/tree/main/Zuber) | Used SQL to find patterns in the available information, then studied the database, analyzed data from competitors, and investigated the impact of weather on ride frequency. |
 | 3 | [Ecommerce](PROJECT DIRECTORY LINK) | DESCRIPTION HERE. |
 | 4 | [SuperStore](PROJECT DIRECTORY LINK) | DESCRIPTION HERE. |
 | 5 | [SuperStore Return](PROJECT DIRECTORY LINK) | DESCRIPTION HERE. |
