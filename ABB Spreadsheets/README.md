@@ -4,7 +4,7 @@
 
 This project analyzes the Manhattan vacation rental market using Airbnb listing and calendar data to uncover high-performing neighborhoods and property types. The goal is to provide investment guidance by identifying which combinations of neighborhood and bedroom count are most attractive and how much revenue top listings can generate.
 
-**Deliverable:** [View Full Analysis (PDF)](./ABB%20spreadsheet.pdf)
+[View Full Analysis](./ABB%20spreadsheet.pdf)
 
 ---
 
@@ -74,7 +74,6 @@ This project analyzes the Manhattan vacation rental market using Airbnb listing 
 ## 🔗 Resources
 
 - [NYC Airbnb Data](https://insideairbnb.com/get-the-data.html)  
-- [Sprint Project Brief](#) *(Link to brief if available)*
 
 ---
 
@@ -87,6 +86,6 @@ This project is for educational and portfolio purposes only. Data used from publ
 ## 👤 Author
 
 *LaShawn Adams*  
-*BI Analyst in Training*
-
+[email](lashawnadams91@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/lashawn-adams/)
 
