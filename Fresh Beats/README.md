@@ -70,8 +70,8 @@ In future projects, I’ll be building on this foundation to create my own data 
 
 Have questions or want to connect?
 
-**LinkedIn:** [Your LinkedIn URL]  
-**Email:** [your.email@example.com]
+[LinkedIn](https://www.linkedin.com/in/lashawn-adams/)  
+[email](lashawnadams91@gmail.com)
 
 ---
 
